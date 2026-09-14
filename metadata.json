@@ -1,0 +1,6 @@
+{
+  "name": "HI-5 Soft Drink",
+  "description": "Official corporate website for HI-5 Soft Drink by Elwad Wholesale Trade in Ethiopia. Premium refreshing banana flavor beverage, product showcase, and wholesale distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
